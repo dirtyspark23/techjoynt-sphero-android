@@ -3,6 +3,12 @@ techjoynt-sphero-android
 
 techJOYnT Sphero Remote (Demo Purposes Only)
 
+=============================================
+
+                WARNING
+=============================================
+*Code is not the final represenation of product and is only for reference use. 
+
 For Educational Purposes Only
 =============================
 
