@@ -1,4 +1,4 @@
-techjoynt-sphero-android
+techJOYnT Sphero App
 ========================
 
 techJOYnT Sphero Remote (Demo Purposes Only)
