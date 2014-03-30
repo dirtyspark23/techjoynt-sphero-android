@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">techJOYnT Sphero Remote</string>
+    <string name="splash_img_des">Image used for displaying a nice splash screen</string>
+    <string name="splash_desc">Splash Screen</string>
+    <string name="remote_control">Remote Control</string>
+    <string name="welcome">Welcome!</string>
+    <string name="first_name_hint">First Name</string>
+    <string name="last_name_hint">Last Name</string>
+    <string name="email_address_hint">Email Address</string>
+    <string name="okay">Okay</string>
+    <string name="cancel">Cancel</string>
+    <string name="user_information_required">User Information Required</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="user_informated_required_message">We are requiring you to provide us with some basic information in order to use this application.</string>
+</resources>

@@ -4,8 +4,9 @@ techJOYnT Sphero App
 techJOYnT Sphero Remote (Demo Purposes Only)
 
 =============================================
-
-                WARNING
+	WARNING UNSTABLE CODE
+	
+	FOR DEMO PURPOSES ONLY	
 =============================================
 *Code is not the final represenation of product and is only for reference use. 
 
