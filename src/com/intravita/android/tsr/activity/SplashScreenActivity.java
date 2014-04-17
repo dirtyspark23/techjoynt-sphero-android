@@ -16,6 +16,7 @@
 
 package com.intravita.android.tsr.activity;
 
+import android.app.Activity;
 import android.content.Intent;
 import android.os.Bundle;
 import android.view.MotionEvent;
@@ -24,10 +25,9 @@ import android.view.animation.Animation.AnimationListener;
 import android.view.animation.AnimationUtils;
 import android.widget.ImageView;
 
-import com.actionbarsherlock.app.SherlockFragmentActivity;
 import com.intravita.android.tsr.R;
 
-public class SplashScreenActivity extends SherlockFragmentActivity {
+public class SplashScreenActivity extends Activity {
 	
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {

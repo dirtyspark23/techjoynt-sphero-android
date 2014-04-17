@@ -13,4 +13,20 @@
     <string name="error_invalid_email">This email address is invalid</string>
     <string name="error_field_required">This field is required</string>
     <string name="user_informated_required_message">We are requiring you to provide us with some basic information in order to use this application.</string>
+    <string name="startup_scanning">Scanning for Spheros</string>
+    <string name="startup_retry">Retry</string>
+    <string name="startup_connecting">Connecting to</string>
+    <string name="startup_connection_failed">Connection Failed</string>
+    <string name="startup_select_robot">Select your Sphero</string>
+    <string name="startup_pick_robot">Pick your Sphero</string>
+    <string name="startup_no_robots">No Spheros available</string>
+    <string name="startup_no_paired_robots">No Spheros paired with this device...</string>
+    <string name="color_picker_title">Color Picker</string>
+    <string name="done_button_text">DONE</string>
+    <string name="calibration_title">calibration</string>
+    <string name="BuySphero">Buy a Sphero™</string>
+    <string name="no_bluetooth_message">We are sorry but we do not detect Bluetooth on your device. \n\nIf you do have Bluetooth please try enabling it manually.</string>
+    <string name="no_bluetooth">Bluetooth Not Detected</string>
+    <string name="bluetooth_required">Bluetooth Required</string>
+    <string name="bluetooth_required_message">Bluetooth needs to be enabled in order for this application to work properly.</string>
 </resources>

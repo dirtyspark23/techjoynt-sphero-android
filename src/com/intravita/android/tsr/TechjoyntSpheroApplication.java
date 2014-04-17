@@ -23,7 +23,7 @@ import android.content.Context;
 import android.content.SharedPreferences;
 import android.preference.PreferenceManager;
 
-public class DemoApplication extends Application {
+public class TechjoyntSpheroApplication extends Application {
 	private static final String BUGSNAG_ID = "8bcb52f416ae4ea56ea2fb851246bf8b";
 	
 	private static Context mApplicationContext;
