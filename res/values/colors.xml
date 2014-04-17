@@ -15,6 +15,4 @@
     <color name="blue">#0000FF</color>
     <color name="navy">#000080</color>
     <color name="black">#000000</color>
-    <!-- App Specific Colors -->
-    <color name="splash_background">#4c66a4</color>
 </resources>

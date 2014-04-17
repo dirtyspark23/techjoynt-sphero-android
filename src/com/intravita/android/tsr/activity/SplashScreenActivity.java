@@ -57,6 +57,12 @@ public class SplashScreenActivity extends Activity {
 
 			@Override
 			public void onAnimationEnd(Animation animation) {
+				try {
+					Thread.sleep(5000);
+				} catch (InterruptedException e) {
+					// TODO Auto-generated catch block
+					e.printStackTrace();
+				}
 				startActivity(new Intent(SplashScreenActivity.this, RemoteControl.class));
 				finish();
 			}
